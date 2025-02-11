@@ -1,0 +1,8 @@
+path: ../datasets/data_pig
+train: train/images
+val: valid/images
+nc: 2
+names:
+- 'pig'
+- 'pigface'
+
